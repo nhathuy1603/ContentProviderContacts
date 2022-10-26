@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/HocTap/Android/ContentProvider/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocTap/Android/ContentProvider/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocTap/Android/ContentProvider/app/src/main/res/layout/item_contact.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ContentProvider/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ContentProvider/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ContentProvider/app/src/main/res/layout/item_contact.xml" value="0.3798828125" />
